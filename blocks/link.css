@@ -1,0 +1,9 @@
+.link {
+  text-decoration: none;
+  color: var(--color-accent);
+  transition: 0.3s;
+}
+
+.link:hover {
+  color: #1a206b;
+}

@@ -1,0 +1,14 @@
+.techniques {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 100px;
+}
+
+.techniques__title {
+  margin-bottom: 20px;
+}
+
+.techniques__subtitle {
+  margin: 0;
+}

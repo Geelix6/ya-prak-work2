@@ -1,0 +1,15 @@
+.digits {
+  padding: 100px 0;
+}
+
+.digits__title {
+  margin: 0 auto 20px auto;
+}
+
+.digits__subtitle {
+  margin: 0 auto;
+}
+
+.digits__table {
+  margin: 0 auto;
+}

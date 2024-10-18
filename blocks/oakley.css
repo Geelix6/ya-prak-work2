@@ -1,0 +1,9 @@
+.oakley {
+  display: flex;
+  justify-content: center;
+  padding-top: 160px;
+  background-color: var(--bg-light-grey);
+}
+.oakley__wrapper {
+  width: 80%;
+}
